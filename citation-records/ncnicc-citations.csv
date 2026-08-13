@@ -1,0 +1,62 @@
+citation_type,reference,name,authority_document,parent
+Core Topic,NCNICC-1,Cybersecurity Governance,NCA National Cybersecurity Controls NCNICC-1:2025,
+Core Topic,NCNICC-2,Cybersecurity Risk Management,NCA National Cybersecurity Controls NCNICC-1:2025,
+Core Topic,NCNICC-3,Cybersecurity Resilience and Continuity,NCA National Cybersecurity Controls NCNICC-1:2025,
+Core Topic,NCNICC-4,Cybersecurity Defence,NCA National Cybersecurity Controls NCNICC-1:2025,
+Core Topic,NCNICC-5,Physical Security,NCA National Cybersecurity Controls NCNICC-1:2025,
+Control Objective,NCNICC-1-1,Cybersecurity Strategy and Policies,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-1
+Control Objective,NCNICC-1-2,Cybersecurity Roles and Responsibilities,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-1
+Control Objective,NCNICC-1-3,Cybersecurity Awareness and Training,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-1
+Control Objective,NCNICC-2-1,Risk Identification and Assessment,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-2
+Control Objective,NCNICC-2-2,Risk Treatment and Monitoring,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-2
+Control Objective,NCNICC-3-1,Business Continuity,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-3
+Control Objective,NCNICC-3-2,Incident Response,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-3
+Control Objective,NCNICC-3-3,Backup and Recovery,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-3
+Control Objective,NCNICC-4-1,Security Monitoring,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-4
+Control Objective,NCNICC-4-2,Vulnerability Management,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-4
+Control Objective,NCNICC-4-3,Access Control,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-4
+Control Objective,NCNICC-5-1,Physical Access Control,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-5
+Control Objective,NCNICC-5-2,Physical Security Monitoring,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-5
+Control,NCNICC-1-1-1,Cybersecurity Policy Framework,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-1-1
+Control,NCNICC-1-1-2,Policy Review and Approval,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-1-1
+Control,NCNICC-1-1-3,Policy Communication,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-1-1
+Control,NCNICC-1-2-1,CISO Appointment,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-1-2
+Control,NCNICC-1-2-2,Cybersecurity Responsibilities Definition,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-1-2
+Control,NCNICC-1-2-3,Cybersecurity Committee,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-1-2
+Control,NCNICC-1-3-1,Awareness Programme,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-1-3
+Control,NCNICC-1-3-2,Specialised Training,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-1-3
+Control,NCNICC-1-3-3,Training Effectiveness Measurement,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-1-3
+Control,NCNICC-2-1-1,Asset Identification,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-2-1
+Control,NCNICC-2-1-2,Threat and Vulnerability Identification,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-2-1
+Control,NCNICC-2-1-3,Risk Assessment Methodology,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-2-1
+Control,NCNICC-2-1-4,Risk Register Maintenance,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-2-1
+Control,NCNICC-2-2-1,Risk Treatment Plan,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-2-2
+Control,NCNICC-2-2-2,Residual Risk Acceptance,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-2-2
+Control,NCNICC-2-2-3,Risk Monitoring and Reporting,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-2-2
+Control,NCNICC-3-1-1,Business Continuity Plan,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-3-1
+Control,NCNICC-3-1-2,BCP Testing and Review,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-3-1
+Control,NCNICC-3-1-3,Recovery Time Objectives,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-3-1
+Control,NCNICC-3-2-1,Incident Response Plan,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-3-2
+Control,NCNICC-3-2-2,Incident Classification,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-3-2
+Control,NCNICC-3-2-3,Incident Reporting to NCA,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-3-2
+Control,NCNICC-3-2-4,Post-Incident Review,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-3-2
+Control,NCNICC-3-3-1,Backup Policy,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-3-3
+Control,NCNICC-3-3-2,Backup Testing,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-3-3
+Control,NCNICC-3-3-3,Offsite Backup Storage,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-3-3
+Control,NCNICC-4-1-1,Security Operations Centre,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-4-1
+Control,NCNICC-4-1-2,Log Management,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-4-1
+Control,NCNICC-4-1-3,Threat Detection and Alerting,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-4-1
+Control,NCNICC-4-1-4,Security Event Correlation,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-4-1
+Control,NCNICC-4-2-1,Vulnerability Scanning,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-4-2
+Control,NCNICC-4-2-2,Patch Management,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-4-2
+Control,NCNICC-4-2-3,Penetration Testing,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-4-2
+Control,NCNICC-4-3-1,Identity and Access Management,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-4-3
+Control,NCNICC-4-3-2,Privileged Access Management,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-4-3
+Control,NCNICC-4-3-3,Multi-Factor Authentication,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-4-3
+Control,NCNICC-4-3-4,Access Review and Recertification,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-4-3
+Control,NCNICC-5-1-1,Perimeter Security,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-5-1
+Control,NCNICC-5-1-2,Visitor Access Management,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-5-1
+Control,NCNICC-5-1-3,Physical Access Logs,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-5-1
+Control,NCNICC-5-2-1,CCTV and Surveillance,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-5-2
+Control,NCNICC-5-2-2,Environmental Controls,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-5-2
+Control,NCNICC-5-2-3,Physical Security Incident Response,NCA National Cybersecurity Controls NCNICC-1:2025,NCNICC-5-2
