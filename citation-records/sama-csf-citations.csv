@@ -1,0 +1,90 @@
+name,reference,type,authority_document
+Cybersecurity Leadership and Governance,CSF-1,Core Topic,SAMA Cybersecurity Framework
+Cybersecurity Risk Management and Compliance,CSF-2,Core Topic,SAMA Cybersecurity Framework
+Cybersecurity Operations and Technology,CSF-3,Core Topic,SAMA Cybersecurity Framework
+Third-Party Cybersecurity,CSF-4,Core Topic,SAMA Cybersecurity Framework
+Personal Data Protection,CSF-5,Core Topic,SAMA Cybersecurity Framework
+Cybersecurity Strategy and Governance,CSF-1-1,Control Objective,SAMA Cybersecurity Framework
+Cybersecurity Policies and Procedures,CSF-1-2,Control Objective,SAMA Cybersecurity Framework
+Cybersecurity Roles and Responsibilities,CSF-1-3,Control Objective,SAMA Cybersecurity Framework
+Cybersecurity Awareness and Training,CSF-1-4,Control Objective,SAMA Cybersecurity Framework
+Cybersecurity Risk Assessment,CSF-2-1,Control Objective,SAMA Cybersecurity Framework
+Cybersecurity Compliance Management,CSF-2-2,Control Objective,SAMA Cybersecurity Framework
+Cybersecurity Risk Treatment,CSF-2-3,Control Objective,SAMA Cybersecurity Framework
+Asset Management,CSF-3-1,Control Objective,SAMA Cybersecurity Framework
+Identity and Access Management,CSF-3-2,Control Objective,SAMA Cybersecurity Framework
+Vulnerability Management,CSF-3-3,Control Objective,SAMA Cybersecurity Framework
+Cybersecurity Incident Management,CSF-3-4,Control Objective,SAMA Cybersecurity Framework
+Cybersecurity Resilience,CSF-3-5,Control Objective,SAMA Cybersecurity Framework
+Network Security,CSF-3-6,Control Objective,SAMA Cybersecurity Framework
+Endpoint Security,CSF-3-7,Control Objective,SAMA Cybersecurity Framework
+Change Management,CSF-3-8,Control Objective,SAMA Cybersecurity Framework
+Third-Party Risk Assessment,CSF-4-1,Control Objective,SAMA Cybersecurity Framework
+Third-Party Contracts and Agreements,CSF-4-2,Control Objective,SAMA Cybersecurity Framework
+Third-Party Monitoring,CSF-4-3,Control Objective,SAMA Cybersecurity Framework
+Personal Data Governance,CSF-5-1,Control Objective,SAMA Cybersecurity Framework
+Personal Data Protection Controls,CSF-5-2,Control Objective,SAMA Cybersecurity Framework
+Personal Data Breach Management,CSF-5-3,Control Objective,SAMA Cybersecurity Framework
+Cybersecurity strategy is documented and approved by senior management,CSF-1-1-1,Control,SAMA Cybersecurity Framework
+Cybersecurity strategy is aligned to business objectives and regulatory requirements,CSF-1-1-2,Control,SAMA Cybersecurity Framework
+Cybersecurity strategy is reviewed and updated at least annually,CSF-1-1-3,Control,SAMA Cybersecurity Framework
+Cybersecurity policies are documented and approved by management,CSF-1-2-1,Control,SAMA Cybersecurity Framework
+Cybersecurity policies are communicated to all relevant personnel,CSF-1-2-2,Control,SAMA Cybersecurity Framework
+Cybersecurity policies are reviewed at least annually or upon significant change,CSF-1-2-3,Control,SAMA Cybersecurity Framework
+A cybersecurity function with defined roles and responsibilities is established,CSF-1-3-1,Control,SAMA Cybersecurity Framework
+A Chief Information Security Officer or equivalent role is appointed,CSF-1-3-2,Control,SAMA Cybersecurity Framework
+Cybersecurity responsibilities are documented in job descriptions,CSF-1-3-3,Control,SAMA Cybersecurity Framework
+A cybersecurity awareness program is established and delivered to all staff,CSF-1-4-1,Control,SAMA Cybersecurity Framework
+Cybersecurity training is provided to personnel with security responsibilities,CSF-1-4-2,Control,SAMA Cybersecurity Framework
+Awareness and training effectiveness is measured and documented,CSF-1-4-3,Control,SAMA Cybersecurity Framework
+A cybersecurity risk assessment methodology is defined and approved,CSF-2-1-1,Control,SAMA Cybersecurity Framework
+Cybersecurity risk assessments are conducted at least annually,CSF-2-1-2,Control,SAMA Cybersecurity Framework
+Risk assessment results are documented and reported to senior management,CSF-2-1-3,Control,SAMA Cybersecurity Framework
+Applicable cybersecurity regulatory requirements are identified and tracked,CSF-2-2-1,Control,SAMA Cybersecurity Framework
+Compliance status against applicable requirements is assessed and documented,CSF-2-2-2,Control,SAMA Cybersecurity Framework
+Non-compliance findings are tracked and remediated,CSF-2-2-3,Control,SAMA Cybersecurity Framework
+Risk treatment options are evaluated and selected for identified risks,CSF-2-3-1,Control,SAMA Cybersecurity Framework
+Risk treatment plans are documented with owners and timelines,CSF-2-3-2,Control,SAMA Cybersecurity Framework
+Residual risk is accepted by authorised risk owners,CSF-2-3-3,Control,SAMA Cybersecurity Framework
+An asset inventory covering information assets is maintained,CSF-3-1-1,Control,SAMA Cybersecurity Framework
+Assets are classified according to sensitivity and criticality,CSF-3-1-2,Control,SAMA Cybersecurity Framework
+Asset owners are assigned for all information assets,CSF-3-1-3,Control,SAMA Cybersecurity Framework
+Access to systems and data is granted based on least privilege,CSF-3-2-1,Control,SAMA Cybersecurity Framework
+Privileged access is controlled and monitored,CSF-3-2-2,Control,SAMA Cybersecurity Framework
+User access is reviewed periodically and upon role change or termination,CSF-3-2-3,Control,SAMA Cybersecurity Framework
+A vulnerability management process is established and documented,CSF-3-3-1,Control,SAMA Cybersecurity Framework
+Vulnerability scans are conducted at defined intervals,CSF-3-3-2,Control,SAMA Cybersecurity Framework
+Critical vulnerabilities are remediated within defined timelines,CSF-3-3-3,Control,SAMA Cybersecurity Framework
+A cybersecurity incident management process is documented and implemented,CSF-3-4-1,Control,SAMA Cybersecurity Framework
+Cybersecurity incidents are detected logged and escalated,CSF-3-4-2,Control,SAMA Cybersecurity Framework
+Post-incident reviews are conducted and lessons learned are documented,CSF-3-4-3,Control,SAMA Cybersecurity Framework
+Business continuity and disaster recovery plans include cybersecurity considerations,CSF-3-5-1,Control,SAMA Cybersecurity Framework
+Recovery time and recovery point objectives are defined for critical systems,CSF-3-5-2,Control,SAMA Cybersecurity Framework
+Business continuity and recovery plans are tested at least annually,CSF-3-5-3,Control,SAMA Cybersecurity Framework
+Network segmentation is implemented to isolate critical systems,CSF-3-6-1,Control,SAMA Cybersecurity Framework
+Firewalls and network access controls are deployed and configured,CSF-3-6-2,Control,SAMA Cybersecurity Framework
+Network traffic is monitored for anomalous or malicious activity,CSF-3-6-3,Control,SAMA Cybersecurity Framework
+Endpoint protection solutions are deployed on all managed devices,CSF-3-7-1,Control,SAMA Cybersecurity Framework
+Endpoint configurations are hardened and managed,CSF-3-7-2,Control,SAMA Cybersecurity Framework
+Removable media controls are implemented on endpoints,CSF-3-7-3,Control,SAMA Cybersecurity Framework
+A change management process is defined and enforced for IT changes,CSF-3-8-1,Control,SAMA Cybersecurity Framework
+Changes are tested and approved before deployment to production,CSF-3-8-2,Control,SAMA Cybersecurity Framework
+Emergency changes are documented and reviewed post-implementation,CSF-3-8-3,Control,SAMA Cybersecurity Framework
+Cybersecurity requirements are included in third-party procurement and contracting,CSF-4-1-1,Control,SAMA Cybersecurity Framework
+Third-party cybersecurity risks are assessed prior to engagement,CSF-4-1-2,Control,SAMA Cybersecurity Framework
+Third-party risk assessments are reviewed periodically,CSF-4-1-3,Control,SAMA Cybersecurity Framework
+Cybersecurity obligations are defined in third-party contracts,CSF-4-2-1,Control,SAMA Cybersecurity Framework
+Contracts include the right to audit third-party cybersecurity controls,CSF-4-2-2,Control,SAMA Cybersecurity Framework
+Third-party contracts include incident notification requirements,CSF-4-2-3,Control,SAMA Cybersecurity Framework
+Third-party compliance with cybersecurity requirements is monitored,CSF-4-3-1,Control,SAMA Cybersecurity Framework
+Third-party security incidents are tracked and escalated,CSF-4-3-2,Control,SAMA Cybersecurity Framework
+Third-party relationships are reviewed upon significant changes or incidents,CSF-4-3-3,Control,SAMA Cybersecurity Framework
+Personal data is identified classified and inventoried,CSF-5-1-1,Control,SAMA Cybersecurity Framework
+Roles and responsibilities for personal data protection are defined,CSF-5-1-2,Control,SAMA Cybersecurity Framework
+A personal data retention and disposal policy is established,CSF-5-1-3,Control,SAMA Cybersecurity Framework
+Technical and organisational controls are implemented to protect personal data,CSF-5-2-1,Control,SAMA Cybersecurity Framework
+Personal data transfers are controlled and documented,CSF-5-2-2,Control,SAMA Cybersecurity Framework
+Access to personal data is restricted to authorised personnel,CSF-5-2-3,Control,SAMA Cybersecurity Framework
+A personal data breach response process is documented and implemented,CSF-5-3-1,Control,SAMA Cybersecurity Framework
+Personal data breaches are reported to relevant authorities within required timelines,CSF-5-3-2,Control,SAMA Cybersecurity Framework
+Affected individuals are notified of personal data breaches as required,CSF-5-3-3,Control,SAMA Cybersecurity Framework
