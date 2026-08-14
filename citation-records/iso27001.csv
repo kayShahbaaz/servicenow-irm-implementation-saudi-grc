@@ -1,0 +1,199 @@
+reference,name,type,description,authority_document
+CL-4,Clause 4 - Context of the Organization,core_topic,Understanding the organization and its context including internal and external issues relevant to the ISMS,ecddf50c3b43cf10a17ebf0f23e45a55
+CL-5,Clause 5 - Leadership,core_topic,Leadership and commitment to the ISMS including policies and organizational roles and responsibilities,ecddf50c3b43cf10a17ebf0f23e45a55
+CL-6,Clause 6 - Planning,core_topic,Actions to address risks and opportunities and information security objectives and planning to achieve them,ecddf50c3b43cf10a17ebf0f23e45a55
+CL-7,Clause 7 - Support,core_topic,Resources competence awareness communication and documented information supporting the ISMS,ecddf50c3b43cf10a17ebf0f23e45a55
+CL-8,Clause 8 - Operation,core_topic,Operational planning and control including information security risk assessment and treatment,ecddf50c3b43cf10a17ebf0f23e45a55
+CL-9,Clause 9 - Performance Evaluation,core_topic,Monitoring measurement analysis evaluation internal audit and management review of the ISMS,ecddf50c3b43cf10a17ebf0f23e45a55
+CL-10,Clause 10 - Improvement,core_topic,Nonconformity corrective action and continual improvement of the ISMS,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5,Annex A.5 - Organizational Controls,core_topic,Organizational controls covering policies roles responsibilities asset management and supplier relationships,ecddf50c3b43cf10a17ebf0f23e45a55
+A.6,Annex A.6 - People Controls,core_topic,Controls relating to people including screening terms of employment awareness training and disciplinary process,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7,Annex A.7 - Physical Controls,core_topic,Physical security controls covering secure areas equipment and supporting utilities,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8,Annex A.8 - Technological Controls,core_topic,Technological controls covering user endpoints access management cryptography and system security,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.1,Information Security Policies,control_objective,Policies for information security to be defined approved published communicated and reviewed,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.2,Information Security Roles and Responsibilities,control_objective,Information security roles and responsibilities to be defined and allocated,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.3,Segregation of Duties,control_objective,Conflicting duties and areas of responsibility to be segregated,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.4,Management Responsibilities,control_objective,Management to require all personnel to apply information security per policies and procedures,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.5,Contact with Authorities,control_objective,Appropriate contacts with relevant authorities to be maintained,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.6,Contact with Special Interest Groups,control_objective,Appropriate contacts with special interest groups or security forums to be maintained,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.7,Threat Intelligence,control_objective,Information about information security threats to be collected and analyzed,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.8,Information Security in Project Management,control_objective,Information security to be integrated into project management,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.9,Inventory of Information and Other Assets,control_objective,Inventory of information and associated assets to be developed and maintained,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.10,Acceptable Use of Information and Other Assets,control_objective,Rules for acceptable use and procedures for handling information and assets to be identified,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.11,Return of Assets,control_objective,Personnel and external party users to return all assets upon change or termination of employment,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.12,Classification of Information,control_objective,Information to be classified according to security needs based on confidentiality integrity and availability,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.13,Labelling of Information,control_objective,Appropriate set of procedures for information labelling to be developed and implemented,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.14,Information Transfer,control_objective,Information transfer rules procedures and agreements for all types of transfer facilities,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.15,Access Control,control_objective,Rules to control physical and logical access to information and assets to be established,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.16,Identity Management,control_objective,Full lifecycle of identities to be managed,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.17,Authentication Information,control_objective,Allocation and management of authentication information to be controlled by a management process,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.18,Access Rights,control_objective,Access rights to information and assets to be provisioned reviewed modified and removed,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.19,Information Security in Supplier Relationships,control_objective,Processes and procedures to manage information security risks associated with suppliers,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.20,Addressing Security in Supplier Agreements,control_objective,Relevant security requirements to be established and agreed with each supplier,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.21,Managing Security in ICT Supply Chain,control_objective,Processes and procedures to manage security risks in ICT product and service supply chain,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.22,Monitoring Review and Change Management of Supplier Services,control_objective,Organization to regularly monitor review audit and manage change in supplier security practices,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.23,Information Security for Use of Cloud Services,control_objective,Processes for acquisition use management and exit from cloud services to be established,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.24,Information Security Incident Management Planning,control_objective,Organization to plan and prepare for managing incidents by defining processes roles and responsibilities,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.25,Assessment and Decision on Information Security Events,control_objective,Organization to assess events and decide if they are to be classified as incidents,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.26,Response to Information Security Incidents,control_objective,Incidents to be responded to in accordance with documented procedures,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.27,Learning from Information Security Incidents,control_objective,Knowledge gained from incidents to be used to strengthen and improve security controls,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.28,Collection of Evidence,control_objective,Organization to establish and implement procedures for identification collection and preservation of evidence,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.29,Information Security During Disruption,control_objective,Organization to plan how to maintain security at an appropriate level during disruption,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.30,ICT Readiness for Business Continuity,control_objective,ICT readiness to be planned implemented maintained and tested based on continuity objectives,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.31,Legal Statutory Regulatory and Contractual Requirements,control_objective,Legal statutory regulatory and contractual requirements relevant to information security to be identified,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.32,Intellectual Property Rights,control_objective,Organization to implement procedures to protect intellectual property rights,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.33,Protection of Records,control_objective,Records to be protected from loss destruction falsification unauthorized access and unauthorized release,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.34,Privacy and Protection of Personal Information,control_objective,Organization to identify and meet requirements for privacy and protection of personal information,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.35,Independent Review of Information Security,control_objective,Organization's approach to managing information security to be reviewed independently at planned intervals,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.36,Compliance with Policies Rules and Standards,control_objective,Compliance with security policies rules and standards to be regularly reviewed,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.37,Documented Operating Procedures,control_objective,Operating procedures for information processing facilities to be documented and made available,ecddf50c3b43cf10a17ebf0f23e45a55
+A.6.1,Screening,control_objective,Background verification checks on candidates to be carried out prior to joining,ecddf50c3b43cf10a17ebf0f23e45a55
+A.6.2,Terms and Conditions of Employment,control_objective,Employment contractual agreements to state personnel and organization responsibilities for security,ecddf50c3b43cf10a17ebf0f23e45a55
+A.6.3,Information Security Awareness Education and Training,control_objective,Personnel to receive appropriate security awareness education training and updates,ecddf50c3b43cf10a17ebf0f23e45a55
+A.6.4,Disciplinary Process,control_objective,Disciplinary process to be formalized and communicated to take action against personnel who violate policy,ecddf50c3b43cf10a17ebf0f23e45a55
+A.6.5,Responsibilities After Termination or Change of Employment,control_objective,Security responsibilities and duties to remain valid after termination or change of employment,ecddf50c3b43cf10a17ebf0f23e45a55
+A.6.6,Confidentiality or Non-Disclosure Agreements,control_objective,Confidentiality and NDA requirements to reflect the organization's needs for protecting information,ecddf50c3b43cf10a17ebf0f23e45a55
+A.6.7,Remote Working,control_objective,Security measures to be implemented when personnel are working remotely,ecddf50c3b43cf10a17ebf0f23e45a55
+A.6.8,Information Security Event Reporting,control_objective,Organization to provide a mechanism for personnel to report security events through appropriate channels,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.1,Physical Security Perimeters,control_objective,Security perimeters to be defined and used to protect areas containing information and assets,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.2,Physical Entry,control_objective,Secure areas to be protected by appropriate entry controls and access points,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.3,Securing Offices Rooms and Facilities,control_objective,Physical security for offices rooms and facilities to be designed and implemented,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.4,Physical Security Monitoring,control_objective,Premises to be continuously monitored for unauthorized physical access,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.5,Protecting Against Physical and Environmental Threats,control_objective,Protection against physical and environmental threats such as natural disasters to be designed and implemented,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.6,Working in Secure Areas,control_objective,Security measures for working in secure areas to be designed and implemented,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.7,Clear Desk and Clear Screen,control_objective,Clear desk rules for papers and removable media and clear screen rules for processing facilities,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.8,Equipment Siting and Protection,control_objective,Equipment to be sited securely and protected to reduce risks from environmental threats and unauthorized access,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.9,Security of Assets Off-Premises,control_objective,Off-site assets to be protected taking into account the different risks of working outside premises,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.10,Storage Media,control_objective,Storage media to be managed through its lifecycle of acquisition use transportation and disposal,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.11,Supporting Utilities,control_objective,Information processing facilities to be protected from power failures and disruptions from supporting utilities,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.12,Cabling Security,control_objective,Cables carrying power and data to be protected from interception interference and damage,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.13,Equipment Maintenance,control_objective,Equipment to be maintained correctly to ensure availability integrity and confidentiality of information,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.14,Secure Disposal or Re-Use of Equipment,control_objective,Items of equipment containing storage media to be verified to ensure sensitive data has been removed,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.1,User Endpoint Devices,control_objective,Information stored on processed by or accessible via user endpoint devices to be protected,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.2,Privileged Access Rights,control_objective,Allocation and use of privileged access rights to be restricted and managed,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.3,Information Access Restriction,control_objective,Access to information and application system functions to be restricted in accordance with access control policy,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.4,Access to Source Code,control_objective,Read and write access to source code development tools and software libraries to be managed appropriately,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.5,Secure Authentication,control_objective,Secure authentication technologies and procedures to be implemented based on access restriction requirements,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.6,Capacity Management,control_objective,Use of resources to be monitored and adjusted in line with current and expected capacity requirements,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.7,Protection Against Malware,control_objective,Protection against malware to be implemented and supported by appropriate user awareness,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.8,Management of Technical Vulnerabilities,control_objective,Information about technical vulnerabilities to be obtained and exposure evaluated with appropriate measures taken,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.9,Configuration Management,control_objective,Configurations including security configurations of hardware software services and networks to be established,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.10,Information Deletion,control_objective,Information stored in systems devices or media to be deleted when no longer required,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.11,Data Masking,control_objective,Data masking to be used in accordance with the access control policy and business and legal requirements,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.12,Data Leakage Prevention,control_objective,Data leakage prevention measures to be applied to systems networks and devices processing sensitive information,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.13,Information Backup,control_objective,Backup copies of information software and systems to be maintained and regularly tested,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.14,Redundancy of Information Processing Facilities,control_objective,Processing facilities to be implemented with sufficient redundancy to meet availability requirements,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.15,Logging,control_objective,Logs recording activities exceptions faults and other relevant events to be produced retained and protected,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.16,Monitoring Activities,control_objective,Networks systems and applications to be monitored for anomalous behaviour and appropriate action taken,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.17,Clock Synchronisation,control_objective,Clocks of information processing systems to be synchronized to approved time sources,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.18,Use of Privileged Utility Programs,control_objective,Use of utility programs that can override system and application controls to be restricted and tightly controlled,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.19,Installation of Software on Operational Systems,control_objective,Procedures and measures to be implemented to securely manage software installation on operational systems,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.20,Networks Security,control_objective,Networks and network devices to be secured managed and controlled to protect information in systems,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.21,Security of Network Services,control_objective,Security mechanisms service levels and requirements of network services to be identified and included in agreements,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.22,Segregation of Networks,control_objective,Groups of information services users and information systems to be segregated in networks,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.23,Web Filtering,control_objective,Access to external websites to be managed to reduce exposure to malicious content,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.24,Use of Cryptography,control_objective,Rules for effective use of cryptography including cryptographic key management to be defined and implemented,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.25,Secure Development Lifecycle,control_objective,Rules for secure development of software and systems to be established and applied,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.26,Application Security Requirements,control_objective,Information security requirements to be identified approved and specified when developing or acquiring applications,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.27,Secure System Architecture and Engineering Principles,control_objective,Principles for engineering secure systems to be established implemented and applied to information system development,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.28,Secure Coding,control_objective,Secure coding principles to be applied to software development,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.29,Security Testing in Development and Acceptance,control_objective,Security testing processes to be defined and implemented in the development lifecycle,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.30,Outsourced Development,control_objective,Organization to direct supervise and review activities related to outsourced system development,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.31,Separation of Development Test and Production Environments,control_objective,Development testing and production environments to be separated and secured,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.32,Change Management,control_objective,Changes to information processing facilities and systems to be subject to change management procedures,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.33,Test Information,control_objective,Test information to be appropriately selected protected and managed,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.34,Protection of Information Systems During Audit Testing,control_objective,Audit tests and other assurance activities involving assessment of operational systems to be planned and agreed,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.1.1,Policies for Information Security,control,Information security policy and topic-specific policies to be defined approved by management published communicated and acknowledged,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.1.2,Review of Policies for Information Security,control,Information security policies to be reviewed at planned intervals or when significant changes occur,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.2.1,Information Security Roles and Responsibilities,control,All information security responsibilities to be defined and allocated,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.3.1,Segregation of Duties,control,Conflicting duties and areas of responsibility to be segregated to reduce opportunities for unauthorized modification,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.4.1,Management Responsibilities,control,Management to require all personnel to apply information security in accordance with established policies,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.5.1,Contact with Authorities,control,Appropriate contacts with relevant authorities such as regulators law enforcement to be maintained,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.6.1,Contact with Special Interest Groups,control,Appropriate contacts with special interest groups or specialist security forums and professional associations to be maintained,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.7.1,Threat Intelligence,control,Information relating to information security threats to be collected analyzed and produced as threat intelligence,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.8.1,Information Security in Project Management,control,Information security to be integrated into project management throughout the project lifecycle,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.9.1,Inventory of Information and Other Assets,control,Inventory of information and associated assets including owners to be developed and maintained,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.10.1,Acceptable Use of Information and Other Assets,control,Rules for the acceptable use and procedures for handling information and associated assets to be identified documented and implemented,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.11.1,Return of Assets,control,Personnel and external party users to return all organizational assets in their possession upon change or termination of employment,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.12.1,Classification of Information,control,Information to be classified according to the information security needs based on confidentiality integrity availability and relevant stakeholder requirements,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.13.1,Labelling of Information,control,Appropriate set of procedures for information labelling to be developed and implemented in accordance with the classification scheme,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.14.1,Information Transfer,control,Formal transfer policies procedures and controls to be in place to protect information transfer through all types of facilities,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.15.1,Access Control Policy,control,Rules to control physical and logical access to information and other associated assets to be established and implemented,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.16.1,Identity Management,control,Full lifecycle of identities to be managed including creation maintenance and deletion of digital identities,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.17.1,Authentication Information,control,Allocation and management of authentication information to be controlled by a formal management process,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.18.1,Access Rights,control,Access rights to information and other associated assets to be provisioned reviewed modified and removed,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.19.1,Information Security in Supplier Relationships,control,Processes and procedures to be defined and implemented to manage information security risks associated with suppliers,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.20.1,Addressing Security in Supplier Agreements,control,Relevant information security requirements to be established and agreed with each supplier based on the type of relationship,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.21.1,Managing Security in ICT Supply Chain,control,Processes and procedures to be defined and implemented to manage information security risks associated with the ICT supply chain,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.22.1,Monitoring Review and Change Management of Supplier Services,control,Organization to regularly monitor review and manage changes to supplier information security practices and service delivery,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.23.1,Information Security for Use of Cloud Services,control,Processes for acquisition use management and exit from cloud services to be established in accordance with the organization's requirements,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.24.1,Information Security Incident Management Planning and Preparation,control,Organization to plan and prepare for managing incidents by defining documenting and communicating incident management processes,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.25.1,Assessment and Decision on Information Security Events,control,Organization to assess information security events and decide if they are to be classified as information security incidents,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.26.1,Response to Information Security Incidents,control,Information security incidents to be responded to in accordance with the documented procedures,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.27.1,Learning from Information Security Incidents,control,Knowledge gained from information security incidents to be used to strengthen and improve security controls,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.28.1,Collection of Evidence,control,Organization to establish and implement procedures for identification collection acquisition and preservation of evidence related to incidents,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.29.1,Information Security During Disruption,control,Organization to plan how to maintain information security at an appropriate level during disruption,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.30.1,ICT Readiness for Business Continuity,control,ICT readiness to be planned implemented maintained and tested based on business continuity objectives and ICT continuity requirements,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.31.1,Legal Statutory Regulatory and Contractual Requirements,control,Legal statutory regulatory and contractual requirements relevant to information security to be identified documented and kept up to date,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.32.1,Intellectual Property Rights,control,Organization to implement appropriate procedures to protect intellectual property rights and use of proprietary software products,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.33.1,Protection of Records,control,Records to be protected from loss destruction falsification unauthorized access and unauthorized release in accordance with requirements,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.34.1,Privacy and Protection of Personal Information,control,Organization to identify and meet the requirements regarding the preservation of privacy and protection of personal information,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.35.1,Independent Review of Information Security,control,Organization's approach to managing information security and its implementation to be reviewed independently at planned intervals,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.36.1,Compliance with Policies Rules and Standards for Information Security,control,Compliance with the organization's information security policy topic-specific policies rules and standards to be regularly reviewed,ecddf50c3b43cf10a17ebf0f23e45a55
+A.5.37.1,Documented Operating Procedures,control,Operating procedures for information processing facilities to be documented and made available to personnel who need them,ecddf50c3b43cf10a17ebf0f23e45a55
+A.6.1.1,Screening,control,Background verification checks on all candidates to be carried out prior to joining the organization and on an ongoing basis,ecddf50c3b43cf10a17ebf0f23e45a55
+A.6.2.1,Terms and Conditions of Employment,control,Employment contractual agreements to state personnel and organization responsibilities for information security,ecddf50c3b43cf10a17ebf0f23e45a55
+A.6.3.1,Information Security Awareness Education and Training,control,All personnel and relevant interested parties to receive appropriate information security awareness education training and updates,ecddf50c3b43cf10a17ebf0f23e45a55
+A.6.4.1,Disciplinary Process,control,Disciplinary process to be formalized and communicated to take action against personnel and other interested parties who violate policy,ecddf50c3b43cf10a17ebf0f23e45a55
+A.6.5.1,Responsibilities After Termination or Change of Employment,control,Information security responsibilities and duties that remain valid after termination or change of employment to be defined enforced and communicated,ecddf50c3b43cf10a17ebf0f23e45a55
+A.6.6.1,Confidentiality or Non-Disclosure Agreements,control,Confidentiality or NDA requirements reflecting the organization's needs for the protection of information to be identified agreed documented and reviewed,ecddf50c3b43cf10a17ebf0f23e45a55
+A.6.7.1,Remote Working,control,Security measures to be implemented when personnel are working remotely to protect information accessed processed or stored outside the organization's premises,ecddf50c3b43cf10a17ebf0f23e45a55
+A.6.8.1,Information Security Event Reporting,control,Organization to provide a mechanism for personnel to report observed or suspected information security events through appropriate channels in a timely manner,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.1.1,Physical Security Perimeters,control,Security perimeters to be defined and used to protect areas that contain information and other associated assets,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.2.1,Physical Entry Controls,control,Secure areas to be protected by appropriate entry controls and access points to ensure only authorized personnel are allowed access,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.3.1,Securing Offices Rooms and Facilities,control,Physical security for offices rooms and facilities to be designed and implemented,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.4.1,Physical Security Monitoring,control,Premises to be continuously monitored for unauthorized physical access,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.5.1,Protecting Against Physical and Environmental Threats,control,Protection against physical and environmental threats such as natural disasters and other intentional or unintentional physical threats to infrastructure,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.6.1,Working in Secure Areas,control,Security measures for working in secure areas to be designed and implemented,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.7.1,Clear Desk and Clear Screen,control,Clear desk rules for papers and removable storage media and clear screen rules for information processing facilities to be defined and enforced,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.8.1,Equipment Siting and Protection,control,Equipment to be sited securely and protected to reduce risks from environmental threats and hazards and opportunities for unauthorized access,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.9.1,Security of Assets Off-Premises,control,Off-site assets to be protected taking into account the different risks of working outside the organization's premises,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.10.1,Storage Media,control,Storage media to be managed through its lifecycle of acquisition use transportation and disposal in accordance with classification scheme,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.11.1,Supporting Utilities,control,Information processing facilities to be protected from power failures and other disruptions caused by failures in supporting utilities,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.12.1,Cabling Security,control,Cables carrying power data or supporting information services to be protected from interception interference or damage,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.13.1,Equipment Maintenance,control,Equipment to be maintained correctly to ensure availability integrity and confidentiality of information,ecddf50c3b43cf10a17ebf0f23e45a55
+A.7.14.1,Secure Disposal or Re-Use of Equipment,control,Items of equipment containing storage media to be verified to ensure that any sensitive data and licensed software has been removed prior to disposal,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.1.1,User Endpoint Devices,control,Information stored on processed by or accessible via user endpoint devices to be protected,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.2.1,Privileged Access Rights,control,Allocation and use of privileged access rights to be restricted and managed,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.3.1,Information Access Restriction,control,Access to information and application system functions to be restricted in accordance with the established access control policy,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.4.1,Access to Source Code,control,Read and write access to source code development tools and software libraries to be appropriately managed,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.5.1,Secure Authentication,control,Secure authentication technologies and procedures to be implemented based on information access restrictions and the access control policy,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.6.1,Capacity Management,control,Use of resources to be monitored and adjusted in line with current and expected capacity requirements,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.7.1,Protection Against Malware,control,Protection against malware to be implemented and supported by appropriate user awareness,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.8.1,Management of Technical Vulnerabilities,control,Information about technical vulnerabilities of information systems in use to be obtained in a timely fashion and the organization's exposure to such vulnerabilities evaluated,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.9.1,Configuration Management,control,Configurations including security configurations of hardware software services and networks to be established documented implemented monitored and reviewed,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.10.1,Information Deletion,control,Information stored in information systems devices or in other storage media to be deleted when no longer required,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.11.1,Data Masking,control,Data masking to be used in accordance with the organization's access control policy and other related policies and business requirements,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.12.1,Data Leakage Prevention,control,Data leakage prevention measures to be applied to systems networks and any other devices that process store or transmit sensitive information,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.13.1,Information Backup,control,Backup copies of information software and systems to be maintained and regularly tested in accordance with the agreed backup policy,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.14.1,Redundancy of Information Processing Facilities,control,Information processing facilities to be implemented with sufficient redundancy to meet availability requirements,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.15.1,Logging,control,Logs recording user activities exceptions faults and other relevant events to be produced retained protected and analyzed,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.16.1,Monitoring Activities,control,Networks systems and applications to be monitored for anomalous behavior and appropriate actions taken to evaluate potential information security incidents,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.17.1,Clock Synchronisation,control,Clocks of information processing systems used by the organization to be synchronized to approved time sources,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.18.1,Use of Privileged Utility Programs,control,Use of utility programs that might be capable of overriding system and application controls to be restricted and tightly controlled,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.19.1,Installation of Software on Operational Systems,control,Procedures and measures to be implemented to securely manage software installation on operational systems,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.20.1,Networks Security,control,Networks and network devices to be secured managed and controlled to protect information in systems and applications,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.21.1,Security of Network Services,control,Security mechanisms service levels and requirements of all network services to be identified included in network service agreements and monitored,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.22.1,Segregation of Networks,control,Groups of information services users and information systems to be segregated in the organization's networks,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.23.1,Web Filtering,control,Access to external websites to be managed to reduce exposure to malicious content,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.24.1,Use of Cryptography,control,Rules for the effective use of cryptography including cryptographic key management to be defined and implemented,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.25.1,Secure Development Lifecycle,control,Rules for the secure development of software and systems to be established and applied to developments within the organization,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.26.1,Application Security Requirements,control,Information security requirements to be identified approved and specified when developing or acquiring applications,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.27.1,Secure System Architecture and Engineering Principles,control,Principles for engineering secure systems to be established documented maintained and applied to any information system implementation activities,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.28.1,Secure Coding,control,Secure coding principles to be applied to software development,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.29.1,Security Testing in Development and Acceptance,control,Security testing processes to be defined and implemented in the development lifecycle,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.30.1,Outsourced Development,control,Organization to direct supervise and review the activities related to outsourced system development,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.31.1,Separation of Development Test and Production Environments,control,Development testing and production environments to be separated and secured,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.32.1,Change Management,control,Changes to information processing facilities and information systems to be subject to change management procedures,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.33.1,Test Information,control,Test information to be appropriately selected protected and managed,ecddf50c3b43cf10a17ebf0f23e45a55
+A.8.34.1,Protection of Information Systems During Audit Testing,control,Audit tests and other assurance activities involving assessment of operational systems to be planned and agreed between the tester and appropriate management,ecddf50c3b43cf10a17ebf0f23e45a55
