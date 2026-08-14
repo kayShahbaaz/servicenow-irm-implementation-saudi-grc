@@ -1,0 +1,49 @@
+type,reference,title,authority_document
+Core Topic,Clause 4,Context of the Organization,a6e035903b474350a17ebf0f23e45ad0
+Core Topic,Clause 5,Leadership,a6e035903b474350a17ebf0f23e45ad0
+Core Topic,Clause 6,Planning,a6e035903b474350a17ebf0f23e45ad0
+Core Topic,Clause 7,Support,a6e035903b474350a17ebf0f23e45ad0
+Core Topic,Clause 8,Operation,a6e035903b474350a17ebf0f23e45ad0
+Core Topic,Clause 9,Performance Evaluation,a6e035903b474350a17ebf0f23e45ad0
+Core Topic,Clause 10,Improvement,a6e035903b474350a17ebf0f23e45ad0
+Core Topic,Annex A,Controls for AI Management,a6e035903b474350a17ebf0f23e45ad0
+Control Objective,A.2,Policies for AI,a6e035903b474350a17ebf0f23e45ad0
+Control Objective,A.3,Internal Organization,a6e035903b474350a17ebf0f23e45ad0
+Control Objective,A.4,Resources for AI Systems,a6e035903b474350a17ebf0f23e45ad0
+Control Objective,A.5,Assessing Impacts of AI Systems,a6e035903b474350a17ebf0f23e45ad0
+Control Objective,A.6,AI System Life Cycle,a6e035903b474350a17ebf0f23e45ad0
+Control Objective,A.7,Data for AI Systems,a6e035903b474350a17ebf0f23e45ad0
+Control Objective,A.8,Information for Interested Parties,a6e035903b474350a17ebf0f23e45ad0
+Control Objective,A.9,Use of AI Systems,a6e035903b474350a17ebf0f23e45ad0
+Control Objective,A.10,Third-Party and Customer Relationships,a6e035903b474350a17ebf0f23e45ad0
+Control,A.2.1,AI Policy,a6e035903b474350a17ebf0f23e45ad0
+Control,A.2.2,AI Topic-Specific Policies,a6e035903b474350a17ebf0f23e45ad0
+Control,A.3.1,Organizational Roles for AI,a6e035903b474350a17ebf0f23e45ad0
+Control,A.3.2,Reporting Structures for AI,a6e035903b474350a17ebf0f23e45ad0
+Control,A.4.1,Resources,a6e035903b474350a17ebf0f23e45ad0
+Control,A.4.2,Competence,a6e035903b474350a17ebf0f23e45ad0
+Control,A.4.3,Awareness,a6e035903b474350a17ebf0f23e45ad0
+Control,A.5.1,AI Impact Assessment Process,a6e035903b474350a17ebf0f23e45ad0
+Control,A.5.2,AI System Impact Assessment,a6e035903b474350a17ebf0f23e45ad0
+Control,A.6.1,AI System Life Cycle General,a6e035903b474350a17ebf0f23e45ad0
+Control,A.6.1.1,Data Acquisition and Preparation,a6e035903b474350a17ebf0f23e45ad0
+Control,A.6.1.2,AI System Design,a6e035903b474350a17ebf0f23e45ad0
+Control,A.6.1.3,AI System Verification and Validation,a6e035903b474350a17ebf0f23e45ad0
+Control,A.6.1.4,AI System Deployment,a6e035903b474350a17ebf0f23e45ad0
+Control,A.6.1.5,AI System Operation and Monitoring,a6e035903b474350a17ebf0f23e45ad0
+Control,A.6.1.6,AI System Decommissioning,a6e035903b474350a17ebf0f23e45ad0
+Control,A.6.2,Responsible AI Development,a6e035903b474350a17ebf0f23e45ad0
+Control,A.7.1,Data Governance for AI,a6e035903b474350a17ebf0f23e45ad0
+Control,A.7.2,Data Acquisition,a6e035903b474350a17ebf0f23e45ad0
+Control,A.7.3,Data Preparation,a6e035903b474350a17ebf0f23e45ad0
+Control,A.7.4,Data Quality,a6e035903b474350a17ebf0f23e45ad0
+Control,A.7.5,Data Provenance,a6e035903b474350a17ebf0f23e45ad0
+Control,A.8.1,Communication of Intended Purpose,a6e035903b474350a17ebf0f23e45ad0
+Control,A.8.2,Instructions for Use,a6e035903b474350a17ebf0f23e45ad0
+Control,A.8.3,Transparency for Interested Parties,a6e035903b474350a17ebf0f23e45ad0
+Control,A.8.4,Communication of Limitations,a6e035903b474350a17ebf0f23e45ad0
+Control,A.9.1,AI System Use Governance,a6e035903b474350a17ebf0f23e45ad0
+Control,A.9.2,Objectives for Use of AI Systems,a6e035903b474350a17ebf0f23e45ad0
+Control,A.10.1,Allocation of Responsibilities,a6e035903b474350a17ebf0f23e45ad0
+Control,A.10.2,Supplier Relationships,a6e035903b474350a17ebf0f23e45ad0
+Control,A.10.3,Customer Due Diligence,a6e035903b474350a17ebf0f23e45ad0
