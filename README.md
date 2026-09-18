@@ -146,8 +146,10 @@ The dashboard aggregates all four reports into a single executive-facing view �
 ## Screenshots
 
 ```
-screenshots/
-├── 00-pdi-instance-activated/
+servicenow-irm-implementation-saudi-grc/
+├── citation-records/
+├── screenshots/
+├── 00-pdi-instance-activated.png
 ├── frameworks/
 │   ├── nca-ecc/
 │   ├── nca-ccc/
@@ -156,13 +158,13 @@ screenshots/
 │   ├── pdpl/
 │   ├── iso-27001/
 │   └── iso-42001/
-├── citation-records/
 ├── policies/
 ├── risk-register/
 ├── controls/
 ├── reports/
 └── dashboard/
-    └── saudi-grc-dashboard.png
+│    └── saudi-grc-dashboard.png
+└── README.md
 ```
 
 ---
@@ -188,7 +190,6 @@ This implementation demonstrates the ability to load and manage all seven framew
 
 ## Author
 
-**Kay Shahbaaz**  
+**kayShahbaaz**  
 Cybersecurity GRC Analyst & Auditor and AI Governance Researcher with hands-on experience across NCA ECC, NCNICC, SAMA CSF, PDPL, ISO 27001, and ISO 42001.
 
-[GitHub](https://github.com/kayShahbaaz)
