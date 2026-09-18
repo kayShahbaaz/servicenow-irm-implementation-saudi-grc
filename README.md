@@ -145,27 +145,134 @@ The dashboard aggregates all four reports into a single executive-facing view �
 
 ## Screenshots
 
-```
-servicenow-irm-implementation-saudi-grc/
-├── citation-records/
-├── screenshots/
-├── 00-pdi-instance-activated.png
-├── frameworks/
-│   ├── nca-ecc/
-│   ├── nca-ccc/
-│   ├── ncnicc/
-│   ├── sama-csf/
-│   ├── pdpl/
-│   ├── iso-27001/
-│   └── iso-42001/
-├── policies/
-├── risk-register/
-├── controls/
-├── reports/
-└── dashboard/
-│    └── saudi-grc-dashboard.png
-└── README.md
-```
+### PDI Instance
+
+- [00-pdi-instance-activated](screenshots/00-pdi-instance-activated.png)
+
+---
+
+### Frameworks
+
+**NCA ECC-2:2024**
+- [01-nca-ecc-authority-document](screenshots/frameworks/nca-ecc/01-nca-ecc-authority-document.png)
+- [02-ecc-5-domains-added](screenshots/frameworks/nca-ecc/02-ecc-5-domains-added.png)
+- [03-ecc1-subdomains-complete](screenshots/frameworks/nca-ecc/03-ecc1-subdomains-complete.png)
+- [04-ecc1-1-controls-complete](screenshots/frameworks/nca-ecc/04-ecc1-1-controls-complete.png)
+- [05-ecc2-subdomains-complete](screenshots/frameworks/nca-ecc/05-ecc2-subdomains-complete.png)
+- [06-ecc2-1-controls-complete](screenshots/frameworks/nca-ecc/06-ecc2-1-controls-complete.png)
+- [07-ecc3-subdomains-complete](screenshots/frameworks/nca-ecc/07-ecc3-subdomains-complete.png)
+- [08-ecc3-1-controls-complete](screenshots/frameworks/nca-ecc/08-ecc3-1-controls-complete.png)
+- [09-ecc4-subdomains-complete](screenshots/frameworks/nca-ecc/09-ecc4-subdomains-complete.png)
+- [10-ecc4-1-controls-complete](screenshots/frameworks/nca-ecc/10-ecc4-1-controls-complete.png)
+- [11-ecc5-subdomains-complete](screenshots/frameworks/nca-ecc/11-ecc5-subdomains-complete.png)
+- [12-ecc5-1-controls-complete](screenshots/frameworks/nca-ecc/12-ecc5-1-controls-complete.png)
+- [13-ecc-authority-document-complete](screenshots/frameworks/nca-ecc/13-ecc-authority-document-complete.png)
+
+**NCA CCC-2:2024**
+- [01-nca-ccc-authority-document](screenshots/frameworks/nca-ccc/01-nca-ccc-authority-document.png)
+- [02-ccc-8-domains-added](screenshots/frameworks/nca-ccc/02-ccc-8-domains-added.png)
+- [03-ccc1-subdomains-complete](screenshots/frameworks/nca-ccc/03-ccc1-subdomains-complete.png)
+- [04-ccc2-subdomains-complete](screenshots/frameworks/nca-ccc/04-ccc2-subdomains-complete.png)
+- [05-ccc3-subdomains-complete](screenshots/frameworks/nca-ccc/05-ccc3-subdomains-complete.png)
+- [06-ccc4-subdomains-complete](screenshots/frameworks/nca-ccc/06-ccc4-subdomains-complete.png)
+- [07-ccc5-subdomains-complete](screenshots/frameworks/nca-ccc/07-ccc5-subdomains-complete.png)
+- [08-ccc6-subdomains-complete](screenshots/frameworks/nca-ccc/08-ccc6-subdomains-complete.png)
+- [09-ccc7-subdomains-complete](screenshots/frameworks/nca-ccc/09-ccc7-subdomains-complete.png)
+- [10-ccc8-subdomains-complete](screenshots/frameworks/nca-ccc/10-ccc8-subdomains-complete.png)
+- [11-ccc1-1-controls-complete](screenshots/frameworks/nca-ccc/11-ccc1-1-controls-complete.png)
+- [12-ccc2-1-controls-complete](screenshots/frameworks/nca-ccc/12-ccc2-1-controls-complete.png)
+- [13-ccc3-1-controls-complete](screenshots/frameworks/nca-ccc/13-ccc3-1-controls-complete.png)
+- [14-ccc4-1-controls-complete](screenshots/frameworks/nca-ccc/14-ccc4-1-controls-complete.png)
+- [15-ccc5-1-controls-complete](screenshots/frameworks/nca-ccc/15-ccc5-1-controls-complete.png)
+- [16-ccc6-1-controls-complete](screenshots/frameworks/nca-ccc/16-ccc6-1-controls-complete.png)
+- [17-ccc7-1-controls-complete](screenshots/frameworks/nca-ccc/17-ccc7-1-controls-complete.png)
+- [18-ccc8-1-controls-complete](screenshots/frameworks/nca-ccc/18-ccc8-1-controls-complete.png)
+- [19-nca-ccc-authority-document-complete](screenshots/frameworks/nca-ccc/19-nca-ccc-authority-document-complete.png)
+
+**NCNICC-1:2025**
+- [01-ncnicc-authority-document](screenshots/frameworks/ncnicc/01-ncnicc-authority-document.png)
+- [02-ncnicc-csv-loaded](screenshots/frameworks/ncnicc/02-ncnicc-csv-loaded.png)
+- [03-ncnicc-transform-map-complete](screenshots/frameworks/ncnicc/03-ncnicc-transform-map-complete.png)
+- [04-ncnicc-transform-complete](screenshots/frameworks/ncnicc/04-ncnicc-transform-complete.png)
+- [05-ncnicc-citations-verified](screenshots/frameworks/ncnicc/05-ncnicc-citations-verified.png)
+- [06-ncnicc-authority-document-complete](screenshots/frameworks/ncnicc/06-ncnicc-authority-document-complete.png)
+
+**SAMA CSF**
+- [01-sama-csf-authority-document](screenshots/frameworks/sama-csf/01-sama-csf-authority-document.png)
+- [02-sama-csf-csv-loaded](screenshots/frameworks/sama-csf/02-sama-csf-csv-loaded.png)
+- [03-sama-csf-transform-map-complete](screenshots/frameworks/sama-csf/03-sama-csf-transform-map-complete.png)
+- [04-sama-csf-transform-complete](screenshots/frameworks/sama-csf/04-sama-csf-transform-complete.png)
+- [05-sama-csf-authority-document-complete](screenshots/frameworks/sama-csf/05-sama-csf-authority-document-complete.png.png)
+
+**PDPL**
+- [01-pdpl-authority-document](screenshots/frameworks/pdpl/01-pdpl-authority-document.png)
+- [02-pdpl-csv-loaded](screenshots/frameworks/pdpl/02-pdpl-csv-loaded.png)
+- [03-pdpl-transform-map](screenshots/frameworks/pdpl/03-pdpl-transform-map.png)
+- [04-pdpl-field-maps-complete](screenshots/frameworks/pdpl/04-pdpl-field-maps-complete.png)
+- [05-pdpl-transform-complete](screenshots/frameworks/pdpl/05-pdpl-transform-complete.png)
+- [06-pdpl-authority-document-complete](screenshots/frameworks/pdpl/06-pdpl-authority-document-complete.png)
+
+**ISO 27001**
+- [01-iso27001-authority-document](screenshots/frameworks/iso-27001/01-iso27001-authority-document.png)
+- [02-iso27001-csv-loaded](screenshots/frameworks/iso-27001/02-iso27001-csv-loaded.png)
+- [03-iso27001-transform-map-complete](screenshots/frameworks/iso-27001/03-iso27001-transform-map-complete.png)
+- [04-iso27001-transform-complete](screenshots/frameworks/iso-27001/04-iso27001-transform-complete.png)
+- [05-iso27001-citations-loaded](screenshots/frameworks/iso-27001/05-iso27001-citations-loaded.png)
+
+**ISO 42001**
+- [01-iso42001-authority-document](screenshots/frameworks/iso-42001/01-iso42001-authority-document.png)
+- [02-iso42001-csv-loaded](screenshots/frameworks/iso-42001/02-iso42001-csv-loaded.png)
+- [03-iso42001-transform-map-complete](screenshots/frameworks/iso-42001/03-iso42001-transform-map-complete.png)
+- [04-iso42001-citations-loaded](screenshots/frameworks/iso-42001/04-iso42001-citations-loaded.png)
+
+---
+
+### Policies
+
+- [01-information-security-policy-3-cos](screenshots/policies/01-information-security-policy-3-cos.png)
+- [02-cybersecurity-policy-3-cos](screenshots/policies/02-cybersecurity-policy-3-cos.png)
+- [03-cloud-security-policy-3-cos](screenshots/policies/03-cloud-security-policy-3-cos.png)
+- [04-critical-infrastructure-policy-3-cos](screenshots/policies/04-critical-infrastructure-policy-3-cos.png)
+- [05-ai-governance-policy-3-cos](screenshots/policies/05-ai-governance-policy-3-cos.png)
+- [06-data-privacy-policy-3-cos](screenshots/policies/06-data-privacy-policy-3-cos.png)
+- [07-third-party-vendor-risk-policy-3-cos](screenshots/policies/07-third-party-vendor-risk-policy-3-cos.png)
+
+---
+
+### Risk Register
+
+- [01-risk-framework-created](screenshots/risk-register/01-risk-framework-created.png)
+- [02-risk-statements-all-7](screenshots/risk-register/02-risk-statements-all-7.png)
+- [03-risks-register-all-07-risks](screenshots/risk-register/03-risks-register-all-07-risks.png)
+- [04-risk-scoring-example](screenshots/risk-register/04-risk-scoring-example.png)
+
+---
+
+### Controls
+
+- [01-policies-list-all-100](screenshots/controls/01-policies-list-all-100.png)
+- [02-information-security-policy-cos](screenshots/controls/02-information-security-policy-cos.png)
+- [03-cybersecurity-policy-cos](screenshots/controls/03-cybersecurity-policy-cos.png)
+- [04-cloud-security-policy-cos](screenshots/controls/04-cloud-security-policy-cos.png)
+- [05-critical-infrastructure-policy-cos](screenshots/controls/05-critical-infrastructure-policy-cos.png)
+- [06-ai-governance-policy-cos](screenshots/controls/06-ai-governance-policy-cos.png)
+- [07-data-privacy-policy-cos](screenshots/controls/07-data-privacy-policy-cos.png)
+- [08-third-party-risk-policy-cos](screenshots/controls/08-third-party-risk-policy-cos.png)
+- [09-control-record-compliant](screenshots/controls/09-control-record-compliant.png)
+
+---
+
+### Reports
+
+- [01-risk-register-report](screenshots/reports/01-risk-register-report.png)
+- [02-risk-by-category-report](screenshots/reports/02-risk-by-category-report.png)
+- [03-policy-compliance-report](screenshots/reports/03-policy-compliance-report.png)
+
+---
+
+### Dashboard
+
+- [saudi-grc-dashboard](screenshots/dashboard/saudi-grc-dashboard.png)
 
 ---
 
@@ -190,6 +297,7 @@ This implementation demonstrates the ability to load and manage all seven framew
 
 ## Author
 
-**kayShahbaaz**  
+**Kay Shahbaaz**  
 Cybersecurity GRC Analyst & Auditor and AI Governance Researcher with hands-on experience across NCA ECC, NCNICC, SAMA CSF, PDPL, ISO 27001, and ISO 42001.
 
+[GitHub](https://github.com/kayShahbaaz)
